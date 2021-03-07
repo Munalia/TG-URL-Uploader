@@ -9,4 +9,4 @@ requests
 tgcrypto
 #youtube-dl
 olefile
-git+https://github.com/TGExplore/youtube-dl.git
+git+https://github.com/TGExplore/youtube-dl-1.git
